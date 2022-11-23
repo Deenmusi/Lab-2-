@@ -28,7 +28,7 @@ namespace WindowsFormsApp1
         private void picAby_Click(object sender, EventArgs e)
         {
             //comment 
-            MessageBox.Show("I am not a picture freak!\n\n I rarely take pictures. Laugh!!", "Abiodun Folayan");
+            MessageBox.Show("I am not a picture freak person!\n\n I rarely take pictures. I am mostly reminded to snap. Laugh!!", "Abiodun Folayan");
             
 
 
@@ -54,7 +54,7 @@ namespace WindowsFormsApp1
         {
             //put answer in label and display
             lblText.Text = "I am Abiodun Folayan\n\n" + "The fifth child of my parents\n\n"
-                + "I hail from Nigeria in West Africa\n\n" + "My favorite food is an african food called Pounded yam\n\n"
+                + "I hail from Nigeria in West Africa\n\n" + "My favorite food is an african food called Pounded yam with egusi soup\n\n"
                 + "I am a loving and caring person with a possibility mindset";
             lblText.Visible = true;
             picAby.Hide();
