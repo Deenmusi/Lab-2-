@@ -53,8 +53,8 @@ namespace WindowsFormsApp1
         private void btnData_Click(object sender, EventArgs e)
         {
             //put answer in label and display
-            lblText.Text = "I am Abiodun Folayan\n\n" + "The fifth child of my parents\n\n"
-                + "I hail from Nigeria in West Africa\n\n" + "My favorite food is an african food called Pounded yam with egusi soup\n\n"
+            lblText.Text = "I am Abiodun Folayan\n\n" + "The sixth child of my parents\n\n"
+                + "I hail from Nigeria in West Africa\n\n" + "My favorite food is an african food called Pounded yam with egusi soup\n\n" + "I am 37 years old" +
                 + "I am a loving and caring person with a possibility mindset";
             lblText.Visible = true;
             picAby.Hide();
